@@ -8,15 +8,12 @@ var settings = {
   "method": "POST",
   "headers": {
     "content-type": "application/json",
+    "origin": "*",
     "cache-control": "no-cache",
   },
   "processData": false,
   "data": {
           	"UPSSecurity": {
-          		"UsernameToken": {
-          			"Username":"N8Sayer",
-          			"Password":"tesser@89"
-          		},
           		"ServiceAccessToken": {
           			"AccessLicenseNumber":"2D325F978B548248"
           		}
