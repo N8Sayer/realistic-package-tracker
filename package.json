@@ -1,4 +1,4 @@
-{
+  {
   "name": "realistic-package-tracker",
   "version": "1.0.0",
   "description": "",
@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/jackmead515/realistic-package-tracker/issues"
   },
-  "homepage": "https://github.com/jackmead515/realistic-package-tracker#readme"
+  "homepage": "https://github.com/jackmead515/realistic-package-tracker#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
 }
