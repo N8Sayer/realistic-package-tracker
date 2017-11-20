@@ -14,6 +14,10 @@ var settings = {
   "processData": false,
   "data": {
           	"UPSSecurity": {
+              "UsernameToken": {
+                "Username": 'N8Sayer',
+                "Password": 'Password42'
+              },
           		"ServiceAccessToken": {
           			"AccessLicenseNumber":"2D325F978B548248"
           		}
